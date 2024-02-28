@@ -11,7 +11,7 @@ external client from insurance industry.
 In my free time, I learn on my own basics of Python, HTML, CSS and the Cypress tool.
 
 My goals for the near future are:
-- pass the ISTQB Certified Tester Foundation Level exam,
+- develop knowledge of the Cypress tool
 - learning the basics of working with tools such as Postman and Selenium
 - develop knowledge of HTML, CSS and Java Script
 - develop knowledge of Python
@@ -35,11 +35,14 @@ My goals for the near future are:
 ## Courses
 - CODE:ME Foundation Course: Basics of testing in practice (03.2023-04.2023)
 
+## Certificates
+- ISTQB® Certified Tester Foundation Level (issued in February 2024 by Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board))
+
 ## My projects
 
 - Cypress:
 <p align="justify">First steps in test automation: <a href="https://github.com/malgorzatadoniec/Cypress-basic-exercises">Cypress-basic-exercises</a></p>
-<p align="justify">Project I'm currently working on: <a href="https://github.com/malgorzatadoniec/TryTestingThis_Cypress">TryTestingThis_Cypress</a></p>
+<p align="justify">First Cypress project: <a href="https://github.com/malgorzatadoniec/TryTestingThis_Cypress">TryTestingThis_Cypress</a></p>
 
 - Test scenarios:
 <p align="justify">Example of test scenarios: <a href="https://github.com/malgorzatadoniec/TestScenarios">TestScenarios</a></p>
