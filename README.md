@@ -41,8 +41,9 @@ My goals for the near future are:
 ## My projects
 
 - Cypress:
-<p align="justify">First steps in test automation: <a href="https://github.com/malgorzatadoniec/Cypress-basic-exercises">Cypress-basic-exercises</a></p>
+<p align="justify">Second Cypress project (with POM): <a href="https://github.com/malgorzatadoniec/SwagLabs_Cypress">SwagLabs_Cypress</a></p>
 <p align="justify">First Cypress project: <a href="https://github.com/malgorzatadoniec/TryTestingThis_Cypress">TryTestingThis_Cypress</a></p>
+<p align="justify">First steps in test automation: <a href="https://github.com/malgorzatadoniec/Cypress-basic-exercises">Cypress-basic-exercises</a></p>
 
 - Test scenarios:
 <p align="justify">Example of test scenarios: <a href="https://github.com/malgorzatadoniec/TestScenarios">TestScenarios</a></p>
