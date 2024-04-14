@@ -34,11 +34,15 @@ My goals for the near future are:
 
 ## Courses
 - CODE:ME Foundation Course: Basics of testing in practice (03.2023-04.2023)
+- CODE:ME Foundation Course: ChatGPT in software testing (06.04.2024)
 
 ## Certificates
 - ISTQB® Certified Tester Foundation Level (issued in February 2024 by Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board))
 
 ## My projects
+
+- Postman:
+<p align="justify">My first Postman project: <a href="https://github.com/malgorzatadoniec/Swagger_Petstore_Postman">Swagger_Petstore_Postman</a></p>
 
 - Cypress:
 <p align="justify">Second Cypress project (with POM): <a href="https://github.com/malgorzatadoniec/SwagLabs_Cypress">SwagLabs_Cypress</a></p>
