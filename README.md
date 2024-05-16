@@ -5,21 +5,21 @@
 I am a graduate of the course preparing for work as a manual tester, during which I gained theoretical knowledge in the field of the ISTQB Certificate and practical knowledge, allowing me to
 take my first steps in the profession.
 
-Currently, as part of the internship program at CGI, I am developing my practical skills as a tester and analyst. The project I am working on concerns the development of a data warehouse for an
-external client from insurance industry.
+Currently, I am working on test automation project (in Postman and Cypress) for an external cilent from the insurance industry and developing my practical skills as a tester and analyst. 
+Previously, I worked on project involving construction of a data warehouse for an external client (also from the insurance industry).
 
-In my free time, I learn on my own basics of Python, HTML, CSS and the Cypress tool.
+In my free time, I learn on my own basics of HTML, CSS and JS.
 
 My goals for the near future are:
-- develop knowledge of the Cypress tool
-- learning the basics of working with tools such as Postman and Selenium
+- develop knowledge of Cypress and Postman
+- learning the basics of working with Selenium
 - develop knowledge of HTML, CSS and Java Script
-- develop knowledge of Python
 
 <p align="justify">You're welcome to visit my <a href="www.linkedin.com/in/małgorzata-doniec-715576216">LinkedIn</a> page! </p>
 
 ## Skills
 
+- creating automated tests in Cypress and Postman
 - creating test scenarios based on analysis of internal software structure and project’s specifications
 - performing manual tests and executing test scenarios
 - reporting defects
@@ -27,10 +27,10 @@ My goals for the near future are:
 - analysis of the solution’s compliance with documentation and business requirements
 - SQL fundamentals (SELECT, UPDATE, INSERT, WHERE, GROUP BY, ORDER BY, JOIN, SUBQUERIES...)
 - work with SQL Server Management Studio
-- knowledge of tools like: Jira, Git, GitLab, GitHUb, Dev Tools, Cypress
-- BBD, Gherkin
+- knowledge of: Jira, Git, GitLab, GitHUb, Dev Tools, Cypress, Postman
+- BBD, Gherkin fundamentals
+- HTML, CSS and JS fundamentals
 - Python fundamentals
-- HTML and CSS fundamentals
 
 ## Courses
 - CODE:ME Foundation Course: Basics of testing in practice (03.2023-04.2023)
@@ -40,6 +40,9 @@ My goals for the near future are:
 - ISTQB® Certified Tester Foundation Level (issued in February 2024 by Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board))
 
 ## My projects
+
+- JS:
+<p align="justify">Generators of test data: <a href="https://github.com/malgorzatadoniec/Generators">Generators</a></p>
 
 - Postman:
 <p align="justify">My first Postman project: <a href="https://github.com/malgorzatadoniec/Swagger_Petstore_Postman">Swagger_Petstore_Postman</a></p>
